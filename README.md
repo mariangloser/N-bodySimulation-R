@@ -8,3 +8,4 @@ The library pyplot is required to run the code.
 More interactivity might be added in the future with perhaps giving the user the option to create arbitrary points by clicking.
 
 # Gallery
+![Rplot01](https://github.com/mariangloser/N-bodySimulation-R/assets/147488596/af0ce9dc-b3d0-4177-af37-b42685aad51f)
